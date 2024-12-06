@@ -104,7 +104,7 @@ function toggleNavbarOnScroll() {
       navbar.style.display = "none";
     } else {
       navbar.style.display = "block";
-      navbar.style.backdropFilter = "blur(5px)";
+      navbar.style.backdropFilter = "blur(10px)";
     }
   });
 }
