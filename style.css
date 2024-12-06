@@ -518,10 +518,6 @@ header .img-wrap .img3 {
         width: 100%;
         font-size: 12px;
     }
-
-    header .img-wrap .main-img{
-        content: url("./assets/imgs/avatarSmall.webp");
-    }
 }
 
 @media (max-width: 400.98px) {
@@ -711,10 +707,6 @@ header .img-wrap .img3 {
     .sec1 .imgWrap .img2 {
         left: 30px;
         top: 0%;
-    }
-
-    .sec1 .imgWrap .main-img{
-        content: url("./assets/imgs/2-3small.webp");
     }
 
     .sec1 .container .textWrap .title{
@@ -1087,10 +1079,6 @@ header .img-wrap .img3 {
 
     .sec3 .textWrap .para{
         font-size: 12px;
-    }
-
-    .sec3 .imgWrap .main-img{
-        content: url(./assets/imgs/2-4small.webp);
     }
 }
 
