@@ -1669,6 +1669,26 @@ header .img-wrap .img3 {
 
 }
 
+@media (max-width: 574.98px){
+    .sec5 .swiperWrap .carousel .carousel-inner .carousel-item .person{
+        gap: 17px;
+    }
+
+    .sec5 .swiperWrap .carousel .carousel-inner .carousel-item .person img {
+        width: 65px;
+        height: 65px;
+        margin-bottom: 0;
+    }
+
+    .sec5 .swiperWrap .carousel .carousel-inner .carousel-item .person .name{
+        font-size: 15px;
+    }
+
+    .sec5 .swiperWrap .carousel .carousel-inner .carousel-item .person .rank{
+        font-size: 11px;
+    }
+}
+
 
 /* footer */
 
