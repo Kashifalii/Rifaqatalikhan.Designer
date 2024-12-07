@@ -788,6 +788,12 @@ header .img-wrap .img3 {
     transform: rotate3d(0.5, 1, 0, 30deg);
 }
 
+.cardMid:hover {
+    background-position: -100px 100px, -100px 100px;
+    box-shadow: #202020 0px 30px 30px -10px;
+    transform: rotate3d(0.5, 0, 0, 20deg);
+}
+
 .cardDif:hover {
     background-position: -100px 100px, -100px 100px;
     box-shadow: #202020 0px 30px 30px -10px;
